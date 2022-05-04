@@ -1,0 +1,32 @@
+#title {
+  text-align: center; }
+
+html {}
+
+
+body {
+ background-color: azure;
+}
+
+
+
+  p {
+    color:darkslateblue;
+   margin: 6rem;
+  }
+  div { 
+     background-color: whitesmoke;
+     text-align: center; 
+     font-family: courier new;
+     font-color: green;
+
+
+   }
+
+
+
+   }
+.custom {
+  font-family: verdana;
+
+}
